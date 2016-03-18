@@ -4,7 +4,7 @@ title: PolderPrinses
 ---
 
 <div class="home" id="home">
-  <!-- <h1 class="pageTitle">Recente Posts</h1> -->
+  <h1 class="pageTitle">Recente Posts</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
@@ -17,10 +17,10 @@ title: PolderPrinses
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Recente Posts</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Recentere Posts</a>
     {% endif %}
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Oudere Posts</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Eerdere Posts</a>
     {% endif %}
   </div>
 </div>
