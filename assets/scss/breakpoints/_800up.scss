@@ -227,6 +227,12 @@ CONTACT PAGE STYLING
 }
 
 #contact {
+	button, input, optgroup, select, textarea {
+	color: inherit;
+	font: inherit;
+	margin: 0;
+	}
+
 	form {
 		@include span(6 of 12 last);
 	}
