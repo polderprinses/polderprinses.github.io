@@ -1,4 +1,4 @@
-title: Polder Prinses
+title: PolderPrinses
 description:
 
 url: http://polderprinses.nl
@@ -14,7 +14,7 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
+ - title: Over
    url: /about
  - title: Contact
    url: /contact
