@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-#   github: polderprinses
+   github: polderprinses
+   email: info@polderprinses.nl
 #   twitter: polderprinses
 #   facebook: danielahofman
-   email: info@polderprinses.nl
 
 #google_analytics: "UA-58263416-1"
