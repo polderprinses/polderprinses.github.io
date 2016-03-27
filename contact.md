@@ -7,8 +7,12 @@ title: "Contact met PolderPrinses"
   <h1 class="pageTitle">Contact ...</h1>
   <div class="contactContent">
     <p class="intro">Neem contact op met PolderPrinses</p>
-    <p>Gebruik het formulier om een reactie te geven, een bericht sturen of zo maar wat achter laten.</p>
+
+    <p>Gebruik het formulier om een reactie te geven, een gedicht 'op maat' aan te vragen, een bericht te sturen of om zo maar iets achter te laten.</p>
+
+    <p>Ben je geraakt door een gedicht en wil je dit publiceren, dan graag vooraf een bericht sturen. Hartelijk dank!</p>
   </div>
+
   <form action="http://formspree.io/info@polderprinses.nl" method="POST">
 <<<<<<< a3f1c5c27d3284261429d5ec72fa370a60764090
     <label for="name">Name</label>
