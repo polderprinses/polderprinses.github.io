@@ -15,4 +15,4 @@ ik mij kan spiegelen. \\
 Jij bent de tuin waarin ik kind kan zijn en kan spelen. \\
 Jij bent mijn thuis. \\
 Thuis, daar\\
-wil ik zijn. 
+wil ik zijn.
