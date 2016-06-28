@@ -1,0 +1,28 @@
+title: PolderPrinses
+description:
+
+url: http://polderprinses.nl
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Over
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: polderprinses
+   email: info@polderprinses.nl
+#   twitter: polderprinses
+#   facebook: danielahofman
+
+#google_analytics: "UA-58263416-1"

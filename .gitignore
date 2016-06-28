@@ -1,2 +1,9 @@
+<<<<<<< 7f1d66437b3ff961256f7e4ebe440e3543d87807
 _site/
 .sass-cache/
+=======
+_site
+.sass-cache
+.DS_Store
+.ruby-version
+>>>>>>> Create initial theme with new pictures
