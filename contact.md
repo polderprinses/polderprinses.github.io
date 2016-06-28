@@ -14,11 +14,7 @@ title: "Contact met PolderPrinses"
   </div>
 
   <form action="http://formspree.io/info@polderprinses.nl" method="POST">
-<<<<<<< a3f1c5c27d3284261429d5ec72fa370a60764090
-    <label for="name">Name</label>
-=======
     <label for="name">Naam</label>
->>>>>>> Update to use consisten PolderPrinses name
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Emailadres</label>
     <input type="email" id="email" name="_replyto" class="full-width"><br>
