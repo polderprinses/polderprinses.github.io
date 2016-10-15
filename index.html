@@ -9,8 +9,13 @@ title: PolderPrinses
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
+<<<<<<< HEAD
 	<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
 	<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+=======
+        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+>>>>>>> blog-site
       </li>
     {% endfor %}
   </ul>

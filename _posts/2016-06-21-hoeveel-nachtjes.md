@@ -13,4 +13,8 @@ Voordat je op me afrent?\\
 Hoeveel minuten nog?\\
 Voordat je weer naar me lacht?\\
 Hoeveel seconden nog?\\
+<<<<<<< HEAD
 Soms duurt een seconde eeuwig als ik op je wacht.
+=======
+Soms duurt een seconde eeuwig als ik op je wacht.\\
+>>>>>>> blog-site

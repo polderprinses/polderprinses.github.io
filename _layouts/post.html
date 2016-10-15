@@ -4,7 +4,11 @@ layout: default
 <div class="post">
   {% if page.image %}
     <div class="featuredImage">
+<<<<<<< HEAD
 	<img src="{{ '/images/' | prepend: site.baseurl | append: page.image }}" alt="" />
+=======
+        <img src="{{ '/images/' | prepend: site.baseurl | append: page.image }}" alt="" />
+>>>>>>> blog-site
       </div>
   {% endif %}
   <h1 class="postTitle">{{ page.title }}</h1>
@@ -17,14 +21,22 @@ layout: default
     {% if page.previous.url %}
       <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
       {% if page.previous.image %}
+<<<<<<< HEAD
 	<img src="{{ '/images/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
+=======
+        <img src="{{ '/images/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
+>>>>>>> blog-site
       {% endif %}
     </a>
     {% endif %}
     {% if page.next.url %}
       <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
       {% if page.next.image %}
+<<<<<<< HEAD
 	<img src="{{ '/images/' | prepend: site.baseurl | append: page.next.image }}" alt="">
+=======
+        <img src="{{ '/images/' | prepend: site.baseurl | append: page.next.image }}" alt="">
+>>>>>>> blog-site
       {% endif %}
       </a>
     {% endif %}

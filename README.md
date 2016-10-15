@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # polderprinses.github.io
 =======
+=======
+>>>>>>> blog-site
 
 ## PolderPrinses
 These are the sources of the polderprinses.nl website.

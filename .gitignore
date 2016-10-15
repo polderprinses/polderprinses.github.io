@@ -1,4 +1,8 @@
 _site
 .sass-cache
 .DS_Store
+<<<<<<< HEAD
 .ruby-version
+=======
+.ruby-version
+>>>>>>> blog-site
