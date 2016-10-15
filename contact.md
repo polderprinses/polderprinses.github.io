@@ -12,15 +12,9 @@ title: "Contact met PolderPrinses"
 
     <p>Ben je geraakt door een gedicht en wil je dit publiceren, dan graag vooraf een bericht sturen. Hartelijk dank!</p>
   </div>
-<<<<<<< HEAD
 
   <form action="http://formspree.io/daniela@polderprinses.nl" method="POST">
     <label for="name">Naam</label>
-=======
-  
-  <form action="http://formspree.io/info@polderprinses.nl" method="POST">
-    <label for="name">Naam</label>    
->>>>>>> blog-site
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Emailadres</label>
     <input type="email" id="email" name="_replyto" class="full-width"><br>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Stil staan"
 date:   2016-06-21
 tags:   [mindfulness]
@@ -14,8 +13,4 @@ hollen, vliegen, rennen\\
 de wereld verkennen\\
 naar al het moois toe gaan,\\
 en dan het besef\\
-<<<<<<< HEAD
 soms moet je daar voor stilstaan.
-=======
-soms moet je daar voor stilstaan. 
->>>>>>> blog-site

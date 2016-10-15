@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Verstoppertje"
 date:   2016-10-15
 tags:   [filosoferen]
@@ -12,4 +11,4 @@ gemakkelijk om dan jezelf uit het oog te verliezen\\
 Zoek jezelf\\
 6,7,8,9,10,\\
 wie niet weg is, is gezien\\
-Hier ben ik!\\
+Hier ben ik!

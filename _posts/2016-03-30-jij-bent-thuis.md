@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Jij bent Thuis"
 date:   2016-03-30
 tags: [liefde]

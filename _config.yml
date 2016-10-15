@@ -11,6 +11,14 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
+defaults:
+  -
+    scope:
+      type: posts
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"
+
 navigation:
  - title: Home
    url: /index.html
@@ -21,12 +29,8 @@ navigation:
 
 social:
    github: polderprinses
-   email: info@polderprinses.nl
+   email: daniela@polderprinses.nl
 #   twitter: polderprinses
 #   facebook: danielahofman
 
-<<<<<<< HEAD
 google_analytics: "UA-8287349-5"
-=======
-#google_analytics: "UA-58263416-1"
->>>>>>> blog-site

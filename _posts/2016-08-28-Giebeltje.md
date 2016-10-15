@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Giebeltje"
 date:   2016-08-28
 tags:   [liefde, kinderen]
@@ -16,4 +15,4 @@ klinkt hard en dan\\
 zacht\\
 Helaas, alweer verdwenen\\
 Ik ben heel stil terwijl ik wacht,\\
-totdat jij weer lacht\\
+totdat jij weer lacht

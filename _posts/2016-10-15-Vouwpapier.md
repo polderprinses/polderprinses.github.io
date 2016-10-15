@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Vouwpapier"
 date:   2016-10-15
 tags:   [liefde]
@@ -16,4 +15,4 @@ mijn haren op je kin\\
 jouw hand\\
 pakt de mijne in\\
 Samen zijn we\\
-Origami\\
+Origami

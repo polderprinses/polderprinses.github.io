@@ -1,7 +1,6 @@
 ---
-layout: post
 title:  "Woordeloze liefde"
-date:   2016-09-20 
+date:   2016-09-20
 tags:   [liefde]
 ---
 
@@ -15,4 +14,4 @@ zonder woorden begrijp jij wat ik bedoel\\
 Fijn,\\
 samen stil te kunnen zijn\\
 Jou hoef ik niets uit te leggen\\
-Liefde\\
+Liefde
