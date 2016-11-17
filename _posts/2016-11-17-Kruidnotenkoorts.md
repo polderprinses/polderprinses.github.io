@@ -15,4 +15,4 @@ cadeaupapier en plakband,\\
 bouwblokjes,\\
 een spel en kruidnoten\\
 De eerste van het jaar,\\
-smaakt altijd magisch\\
+smaakt altijd magisch
