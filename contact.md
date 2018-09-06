@@ -14,6 +14,11 @@ title: "Contact met PolderPrinses"
   </div>
 
   <form action="http://formspree.io/daniela@polderprinses.nl" method="POST">
+    <input type="hidden" name="_format" value="plain">
+    <input type="hidden" name="_subject" value="Website contact!">
+    <input type="hidden" name="_next" value="http://polderprinses.nl/bedankt/">
+    <input type="hidden" name="_language" value="nl">
+    <input type="text" name="_gotcha" style="display:none">
     <label for="name">Naam</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Emailadres</label>
