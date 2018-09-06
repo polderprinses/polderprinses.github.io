@@ -32,17 +32,10 @@ CLEAR AFTER FLOATS
 @mixin clearfix {
   zoom:1;
   &:before, &:after {
-<<<<<<< HEAD
     content: "\0020";
     display: block;
     height: 0;
     overflow: hidden;
-=======
-    content: "\0020"; 
-    display: block; 
-    height: 0; 
-    overflow: hidden; 
->>>>>>> blog-site
   }
   &:after {
     clear: both;
