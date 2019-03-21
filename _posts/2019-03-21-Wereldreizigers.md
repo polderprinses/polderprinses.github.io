@@ -5,7 +5,7 @@ tags:   [liefde]
 ---
 
 {:.intro}
-lief naïef startte ons avontuur\\
+lief naief startte ons avontuur\\
 stap voor stap\\
 ouder en wijzer\\
 jij stond stil\\
