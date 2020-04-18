@@ -1,7 +1,7 @@
 ---
 title:  "Grijze jas"
 date:   2020-03-26
-tags:   [liefde]
+tags:   [filosoferen]
 ---
 
 {:.intro}
