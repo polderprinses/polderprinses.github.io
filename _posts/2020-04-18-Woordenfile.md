@@ -15,13 +15,13 @@ tegen elkaar
 {:.intro}
 Gedachten en gevoelens\\
 konden niets anders\\
-dan uitwijken\\
+dan uitwijken
 
 {:.intro}
 Brokstukken\\
 vliegen rond\\
 en landen\\
-hard en zacht in de omgeving\\
+hard en zacht in de omgeving
 
 {:.intro}
 Ik stap uit\\
