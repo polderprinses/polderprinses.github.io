@@ -1,6 +1,6 @@
 ---
 title:  "Woordenfile"
-date:   2020-03-31
+date:   2020-04-18
 tags:   [filosoferen]
 ---
 
@@ -29,4 +29,4 @@ en loop\\
 naar de verstilling van de wereld\\
 en verwonder me\\
 over de veerkracht\\
-om mij heen 
+om mij heen
